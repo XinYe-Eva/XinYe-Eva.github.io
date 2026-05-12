@@ -21,14 +21,14 @@ baidu_site_verification  :
 author:
   name             : "Xin Ye"
   avatar           : "images/profile.jpg"
-  bio              : "PhD Candidate, University of Michigan School of Information"
+  bio              : "Human Robot Interaction Researcher"
   location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
+#  employer         : "University of Michigan"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1LlzZicAAAAJ&hl=en"
   email            : "xinye@umich.edu"
   researchgate     :
-  uri              : "https://www.xinyepsy.com"
+#  uri              : "https://www.xinyepsy.com"
   bitbucket        :
   codepen          :
   dribbble         :
