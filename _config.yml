@@ -7,10 +7,10 @@ title: "Xin Ye"
 description: "PhD Candidate at the University of Michigan School of Information"
 repository: "XinYe-Eva/XinYe-Eva.github.io"
 
-google_scholar_stats_use_cdn : true
+# google_scholar_stats_use_cdn : true
 
-# Google Analytics
-google_analytics_id      :
+# # Google Analytics
+# google_analytics_id      :
 
 # SEO Related
 google_site_verification :
@@ -20,7 +20,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Xin Ye"
-  avatar           : "images/profile.JPG"
+  avatar           : "images/profile.jpg"
   bio              : "PhD Candidate, University of Michigan School of Information"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
