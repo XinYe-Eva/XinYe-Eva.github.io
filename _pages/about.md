@@ -158,7 +158,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="security review trust-acceptance">
+  <div class="publication-card" data-keywords="security review">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="THRI literature review thumbnail">
     </div>
@@ -238,7 +238,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="security anthropomorphism">
+  <div class="publication-card" data-keywords="security anthropomorphism trust-acceptance">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="RO-MAN 2023 anthropomorphism thumbnail">
     </div>
