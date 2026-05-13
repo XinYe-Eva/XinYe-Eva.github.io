@@ -29,6 +29,8 @@ exploring how people perceive, respond to, and interact with
 and how these systems can be designed and deployed in service of the 
 <span style="color:#00a878; font-weight:700;">public good</span>.
 
+My work has been published in premier conferences and journals, including ACM Transactions on Human-Robot Interaction, the ACM/IEEE International Conference on Human-Robot Interaction (HRI), the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), and the Americas Conference on Information Systems (AMCIS). Prior to my Ph.D., I earned an M.S. in Information Science from the University of Michigan and a B.S. in Psychology from Zhejiang University.
+
 # 🔥 News
 - *Dec 22, 2025*: My paper “The Roles of Fairness and Effectiveness in Promoting Legitimacy and Cooperation with Security Robotic Authority” has been accepted as a full paper at HRI 2026 (23% acceptance rate)!&nbsp;🎉🎉 
 - *Oct 13, 2025*: Attended the 69th Human Factors and Ergonomics Society Annual Meeting (HEFS 2025) in Chicago, IL and presented my paper “Rewarding Trust: How Reward Power Shapes Security Robot Acceptance”.
