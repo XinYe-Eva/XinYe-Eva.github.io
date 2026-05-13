@@ -43,8 +43,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
   <button class="filter-btn" onclick="filterPubs('security', event)">Security Robots</button>
   <button class="filter-btn" onclick="filterPubs('power-authority', event)">Social Power & Authority</button>
   <button class="filter-btn" onclick="filterPubs('trust-acceptance', event)">Trust & Acceptance</button>
-  <button class="filter-btn" onclick="filterPubs('review', event)">Literature Review</button>
   <button class="filter-btn" onclick="filterPubs('ethics', event)">Ethics & Society</button>
+  <button class="filter-btn" onclick="filterPubs('review', event)">Literature Review</button>
   <button class="filter-btn" onclick="filterPubs('anthropomorphism', event)">Anthropomorphism</button>
 </div>
 
