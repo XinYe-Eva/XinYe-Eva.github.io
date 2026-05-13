@@ -20,7 +20,7 @@ redirect_from:
 Hello and welcome! I’m **Xin**, a third-year PhD student at the 
 <a href="https://www.si.umich.edu/" target="_blank" style="color:#2f80ed; font-weight:600;">University of Michigan School of Information</a> 
 advised by 
-<a href="https://www.si.umich.edu/people/lionel-robert" target="_blank" style="color:#2f80ed; font-weight:600;">Professor Lionel Robert</a>.
+<a href="https://www.si.umich.edu/people/lionel-robert" target="_blank" style="color:#2f80ed; font-weight:600;"> Prof. Lionel Robert</a>.
 
 My research focuses on 
 <span style="color:#ff8c00; font-weight:700;">robots deployed in public security and law enforcement</span>, 
