@@ -17,12 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello and welcome! I’m Xin Ye, a Ph.D. candidate at the University of Michigan School of Information advised by Professor Lionel Robert.
+Hello and welcome! I’m **Xin Ye**, a Ph.D. candidate at the 
+<a href="https://www.si.umich.edu/" target="_blank" style="color:#2f80ed; font-weight:600;">University of Michigan School of Information</a> 
+advised by 
+<a href="https://www.si.umich.edu/people/lionel-robert" target="_blank" style="color:#2f80ed; font-weight:600;">Professor Lionel Robert</a>.
 
-My research focuses on robots deployed in public security and law enforcement, exploring how people perceive, respond to, and interact with security robots, and how these systems can be designed and deployed in service of the public good. 
-
-My work has been published in premier conferences and journals, including ACM Transactions on Human-Robot Interaction, the ACM/IEEE International Conference on Human-Robot Interaction (HRI), the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), and the Americas Conference on Information Systems (AMCIS). Prior to my Ph.D., I earned an M.S. in Information Science from the University of Michigan and a B.S. in Psychology from Zhejiang University.
-
+My research focuses on 
+<span style="color:#ff8c00; font-weight:700;">robots deployed in public security and law enforcement</span>, 
+exploring how people perceive, respond to, and interact with 
+<span style="color:#00a6d6; font-weight:700;">security robots</span>, 
+and how these systems can be designed and deployed in service of the 
+<span style="color:#00a878; font-weight:700;">public good</span>.
 
 # 🔥 News
 - *Dec 22, 2025*: My paper “The Roles of Fairness and Effectiveness in Promoting Legitimacy and Cooperation with Security Robotic Authority” has been accepted as a full paper at HRI 2026 (23% acceptance rate)!&nbsp;🎉🎉 
