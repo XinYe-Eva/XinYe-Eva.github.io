@@ -503,7 +503,6 @@ function filterPubs(keyword, event) {
 - *02/2024*: Rackham Pre-candidate Research Grant, $1,500, University of Michigan.
 - *09/2022*: School of Information Master Student Research Grant, $1,500.
 
-# 📖 Education
 
 # 📖 Education
 
