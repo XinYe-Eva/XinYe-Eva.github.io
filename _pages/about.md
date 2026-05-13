@@ -68,7 +68,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Social Power & Authority</span>
-        <span>HRI 2026</span>
+        <span>HRI 2026 Full Paper</span>
       </p>
     </div>
   </div>
@@ -91,7 +91,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <span>Security Robots</span>
         <span>Social Power & Authority</span>
         <span>Trust & Acceptance</span>
-        <span>HFES 2025</span>
+        <span>HFES 2025 Full Paper</span>
       </p>
     </div>
   </div>
@@ -120,7 +120,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Literature Review</span>
-        <span>RO-MAN 2025</span>
+        <span>RO-MAN 2025 Full Paper</span>
       </p>
     </div>
   </div>
@@ -153,7 +153,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <span>Security Robots</span>
         <span>Social Power & Authority</span>
         <span>Trust & Acceptance</span>
-        <span>HRI 2025</span>
+        <span>HRI 2025 Late Breaking Report</span>
       </p>
     </div>
   </div>
@@ -179,7 +179,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Literature Review</span>
-        <span>THRI</span>
+        <span>SCI-Q1</span>
       </p>
     </div>
   </div>
@@ -207,7 +207,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <span>Security Robots</span>
         <span>Literature Review</span>
         <span>Gender</span>
-        <span>AMCIS 2024</span>
+        <span>AMCIS 2024 Full Paper</span>
       </p>
     </div>
   </div>
@@ -233,7 +233,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Trust & Acceptance</span>
-        <span>HRI 2024</span>
+        <span>HRI 2024 Full Paper</span>
       </p>
     </div>
   </div>
@@ -259,7 +259,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Anthropomorphism</span>
-        <span>RO-MAN 2023</span>
+        <span>RO-MAN 2023 Full Paper</span>
       </p>
     </div>
   </div>
@@ -281,7 +281,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>AI Companions</span>
         <span>Human–AI Relationships</span>
-        <span>HRI 2026</span>
+        <span>HRI 2026 Late Breaking Report</span>
       </p>
     </div>
   </div>
@@ -303,7 +303,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Literature Review</span>
         <span>Meta-analysis</span>
-        <span>HRI 2025</span>
+        <span>HRI 2025 Full Paper</span>
       </p>
     </div>
   </div>
