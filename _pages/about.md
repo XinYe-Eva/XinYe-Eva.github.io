@@ -38,14 +38,13 @@ My work has been published in premier conferences and journals, such as ACM Tran
 - *Aug 29, 2025*: Attended the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025) in Eindhoven, Netherlands and presented my paper “Can Robots Take Over Security? A Brief Review and Critique of Security Robot vs. Human Security Agent”. 🤖👮
 
 # 📝 Publications
-
 <div class="pub-filter">
   <button class="filter-btn active" onclick="filterPubs('all', event)">All</button>
   <button class="filter-btn" onclick="filterPubs('security', event)">Security Robots</button>
   <button class="filter-btn" onclick="filterPubs('power-authority', event)">Social Power & Authority</button>
   <button class="filter-btn" onclick="filterPubs('trust-acceptance', event)">Trust & Acceptance</button>
   <button class="filter-btn" onclick="filterPubs('review', event)">Literature Review</button>
-  <button class="filter-btn" onclick="filterPubs('gender', event)">Gender</button>
+  <button class="filter-btn" onclick="filterPubs('ethics', event)">Ethics & Society</button>
   <button class="filter-btn" onclick="filterPubs('anthropomorphism', event)">Anthropomorphism</button>
 </div>
 
@@ -120,6 +119,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Literature Review</span>
+        <span>Ethics & Society</span>
         <span>RO-MAN 2025 Full Paper</span>
       </p>
     </div>
@@ -206,7 +206,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Literature Review</span>
-        <span>Gender</span>
+        <span>Ethics & Society</span>
         <span>AMCIS 2024 Full Paper</span>
       </p>
     </div>
@@ -280,7 +280,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       </p>
       <p class="pub-tags">
         <span>AI Companions</span>
-        <span>Human–AI Relationships</span>
+        <span>Ethics & Society</span>
         <span>HRI 2026 Late Breaking Report</span>
       </p>
     </div>
