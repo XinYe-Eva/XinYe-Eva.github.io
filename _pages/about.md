@@ -68,7 +68,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Social Power & Authority</span>
-        <span>Trust & Acceptance</span>
         <span>HRI 2026</span>
       </p>
     </div>
@@ -492,10 +491,17 @@ function filterPubs(keyword, event) {
 }
 </script>
 
+
 # 🎖 Honors and Awards
 
-- *2025*: Honorable Mention Award, ACM/IEEE International Conference on Human-Robot Interaction.
-- *2024*: Best Paper Nominee, Americas Conference on Information Systems.
+- *03/2025*: [Best Late Breaking Report Award, Honorable Mention](https://humanrobotinteraction.org/2025/awards/), ACM/IEEE International Conference on Human-Robot Interaction.
+- *08/2024*: [Top 25% Paper, Winner](https://aisel.aisnet.org/amcis2024/awards.html), Americas Conference on Information Systems.
+- *08/2024*: [Best Paper Award, Nominated](https://aisel.aisnet.org/amcis2024/awards.html), Americas Conference on Information Systems.
+- *06/2024*: Ph.D. Pre-candidacy Paper Passed with Distinction, University of Michigan.
+- *2023, 2024, 2025*: School of Information Travel Grant, $1,500.
+- *2023, 2024, 2025*: Rackham Conference Travel Grant, $900 and $1,100.
+- *02/2024*: Rackham Pre-candidate Research Grant, $1,500, University of Michigan.
+- *09/2022*: School of Information Master Student Research Grant, $1,500.
 
 # 📖 Education
 
