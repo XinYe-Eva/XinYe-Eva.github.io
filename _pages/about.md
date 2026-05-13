@@ -499,13 +499,13 @@ function filterPubs(keyword, event) {
 - *08/2024*: [Best Paper Award, Nominated](https://aisel.aisnet.org/amcis2024/awards.html), Americas Conference on Information Systems.
 - *06/2024*: Ph.D. Pre-candidacy Paper Passed with Distinction, University of Michigan.
 - *2023, 2024, 2025*: School of Information Travel Grant, $1,500.
-- *2023, 2024, 2025*: Rackham Conference Travel Grant, \$900 and \$1,100.
+- *2023, 2024, 2025*: Rackham Conference Travel Grant, &#36;900 and &#36;1,100.
 - *02/2024*: Rackham Pre-candidate Research Grant, $1,500, University of Michigan.
 - *09/2022*: School of Information Master Student Research Grant, $1,500.
 
 
 # 📖 Education
 
-- *2023 - Present*, Ph.D. in Information, University of Michigan School of Information.
+- *2023 - Present*, Ph.D. in Information, University of Michiga.
 - *2021 - 2023*, M.S. in Information Science, Data Science and Big Data Analytics, University of Michigan.
 - *2017 - 2021*, B.S. in Psychology, Zhejiang University.
