@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello and welcome! I’m **Xin Ye**, a third-year PhD student at the 
+Hello and welcome! I’m **Xin**, a third-year PhD student at the 
 <a href="https://www.si.umich.edu/" target="_blank" style="color:#2f80ed; font-weight:600;">University of Michigan School of Information</a> 
 advised by 
 <a href="https://www.si.umich.edu/people/lionel-robert" target="_blank" style="color:#2f80ed; font-weight:600;">Professor Lionel Robert</a>.
