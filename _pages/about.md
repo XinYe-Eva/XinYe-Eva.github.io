@@ -50,7 +50,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
 
 <div class="publication-list">
 
-  <div class="publication-card" data-keywords="security power-authority trust-acceptance">
+  <div class="publication-card" data-keywords="security power-authority">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="HRI 2026 paper thumbnail">
     </div>
@@ -158,7 +158,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="security review">
+  <div class="publication-card" data-keywords="security review trust-acceptance">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="THRI literature review thumbnail">
     </div>
