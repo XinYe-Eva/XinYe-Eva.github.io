@@ -95,7 +95,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="security review">
+  <div class="publication-card" data-keywords="security review ethics">
     <div class="publication-image video-thumb">
       <a href="#" target="_blank">
         <img src="/images/500x300.png" alt="RO-MAN 2025 paper thumbnail">
@@ -184,7 +184,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="security review gender">
+  <div class="publication-card" data-keywords="security review ethics">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="AMCIS 2024 gender and security robot thumbnail">
     </div>
@@ -264,7 +264,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="">
+  <div class="publication-card" data-keywords="ethics">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="AI companion relationships thumbnail">
     </div>
