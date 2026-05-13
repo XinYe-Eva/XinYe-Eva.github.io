@@ -42,166 +42,271 @@ My work has been published in premier conferences and journals, such as ACM Tran
 <div class="pub-filter">
   <button class="filter-btn active" onclick="filterPubs('all', event)">All</button>
   <button class="filter-btn" onclick="filterPubs('security', event)">Security Robots</button>
-  <button class="filter-btn" onclick="filterPubs('hri', event)">Human–Robot Interaction</button>
-  <button class="filter-btn" onclick="filterPubs('trust', event)">Trust & Acceptance</button>
-  <button class="filter-btn" onclick="filterPubs('power', event)">Power</button>
-  <button class="filter-btn" onclick="filterPubs('review', event)">Review</button>
+  <button class="filter-btn" onclick="filterPubs('power-authority', event)">Social Power & Authority</button>
+  <button class="filter-btn" onclick="filterPubs('trust-acceptance', event)">Trust & Acceptance</button>
+  <button class="filter-btn" onclick="filterPubs('review', event)">Literature Review</button>
   <button class="filter-btn" onclick="filterPubs('gender', event)">Gender</button>
   <button class="filter-btn" onclick="filterPubs('anthropomorphism', event)">Anthropomorphism</button>
 </div>
 
 <div class="publication-list">
 
-  <div class="publication-item" data-keywords="security hri trust power">
-    <p class="pub-title">
-      Rewarding Trust: How Reward Power Shapes Security Robot Acceptance
-    </p>
-    <p class="pub-authors">
-      <strong>Xin Ye</strong>, Lionel Peter Robert
-    </p>
-    <p class="pub-venue">
-      Human Factors and Ergonomics Society Annual Meeting, 2025
-    </p>
-    <p class="pub-tags">
-      <span>Security Robots</span>
-      <span>Trust & Acceptance</span>
-      <span>Power</span>
-      <span>HFES 2025</span>
-    </p>
+  <div class="publication-card" data-keywords="security power-authority trust-acceptance">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="HRI 2026 paper thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        The Roles of Fairness and Effectiveness in Promoting Legitimacy and Cooperation with Security Robotic Authority
+      </p>
+      <p class="pub-authors">
+        <strong>Xin Ye</strong>, Lionel P. Robert
+      </p>
+      <p class="pub-venue">
+        Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction, 2026
+      </p>
+      <p class="pub-tags">
+        <span>Security Robots</span>
+        <span>Social Power & Authority</span>
+        <span>Trust & Acceptance</span>
+        <span>HRI 2026</span>
+      </p>
+    </div>
   </div>
 
-  <div class="publication-item" data-keywords="security hri review">
-    <p class="pub-title">
-      Can Robots Take Over Security? A Brief Review and Critique of Security Robot vs. Human Security Agent
-    </p>
-    <p class="pub-authors">
-      <strong>Xin Ye</strong>, Lionel Peter Robert
-    </p>
-    <p class="pub-venue">
-      IEEE International Conference on Robot and Human Interactive Communication, 2025
-    </p>
-    <p class="pub-links">
-      <a href="#" target="_blank">pdf</a>
-    </p>
-    <p class="pub-tags">
-      <span>Security Robots</span>
-      <span>Human–Robot Interaction</span>
-      <span>Review</span>
-      <span>RO-MAN 2025</span>
-    </p>
+  <div class="publication-card" data-keywords="security power-authority trust-acceptance">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="HFES 2025 paper thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        Rewarding Trust: How Reward Power Shapes Security Robot Acceptance
+      </p>
+      <p class="pub-authors">
+        <strong>Xin Ye</strong>, Lionel P. Robert
+      </p>
+      <p class="pub-venue">
+        Human Factors and Ergonomics Society Annual Meeting, 2025
+      </p>
+      <p class="pub-tags">
+        <span>Security Robots</span>
+        <span>Social Power & Authority</span>
+        <span>Trust & Acceptance</span>
+        <span>HFES 2025</span>
+      </p>
+    </div>
   </div>
 
-  <div class="publication-item" data-keywords="security hri trust power">
-    <p class="pub-title">
-      Security Robot Power and Acceptance: Exploring French and Raven’s Five Forms of Power
-    </p>
-    <p class="pub-authors">
-      <strong>Xin Ye</strong>, Lionel Peter Robert
-    </p>
-    <p class="pub-venue">
-      ACM/IEEE International Conference on Human-Robot Interaction, 2025
-      <span class="award">🎖️ Honorable Mention Award</span>
-    </p>
-    <p class="pub-links">
-      <a href="#" target="_blank">pdf</a>
-      <a href="#" target="_blank">paper</a>
-      <a href="#" target="_blank">poster</a>
-    </p>
-    <p class="pub-tags">
-      <span>Security Robots</span>
-      <span>Trust & Acceptance</span>
-      <span>Power</span>
-      <span>HRI 2025</span>
-    </p>
+  <div class="publication-card" data-keywords="security review">
+    <div class="publication-image video-thumb">
+      <a href="#" target="_blank">
+        <img src="/images/500x300.png" alt="RO-MAN 2025 paper thumbnail">
+        <span class="play-button">▶</span>
+      </a>
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        Can Robots Take Over Security? A Brief Review and Critique of Security Robot vs. Human Security Agent
+      </p>
+      <p class="pub-authors">
+        <strong>Xin Ye</strong>, Lionel P. Robert
+      </p>
+      <p class="pub-venue">
+        IEEE International Conference on Robot and Human Interactive Communication, 2025
+      </p>
+      <p class="pub-links">
+        <a href="#" target="_blank">pdf</a>
+        <a href="#" target="_blank">video</a>
+      </p>
+      <p class="pub-tags">
+        <span>Security Robots</span>
+        <span>Literature Review</span>
+        <span>RO-MAN 2025</span>
+      </p>
+    </div>
   </div>
 
-  <div class="publication-item" data-keywords="security hri review">
-    <p class="pub-title">
-      A Human–Security Robot Interaction Literature Review
-    </p>
-    <p class="pub-authors">
-      <strong>Xin Ye</strong>, Lionel Peter Robert
-    </p>
-    <p class="pub-venue">
-      ACM Transactions on Human-Robot Interaction
-    </p>
-    <p class="pub-links">
-      <a href="#" target="_blank">pdf</a>
-      <a href="#" target="_blank">paper</a>
-    </p>
-    <p class="pub-tags">
-      <span>Security Robots</span>
-      <span>Human–Robot Interaction</span>
-      <span>Review</span>
-      <span>THRI</span>
-    </p>
+  <div class="publication-card" data-keywords="security power-authority trust-acceptance">
+    <div class="publication-image video-thumb">
+      <a href="#" target="_blank">
+        <img src="/images/500x300.png" alt="HRI 2025 paper thumbnail">
+        <span class="play-button">▶</span>
+      </a>
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        Security Robot Power and Acceptance: Exploring French and Raven’s Five Forms of Power
+      </p>
+      <p class="pub-authors">
+        <strong>Xin Ye</strong>, Lionel P. Robert
+      </p>
+      <p class="pub-venue">
+        ACM/IEEE International Conference on Human-Robot Interaction, 2025
+        <span class="award">🎖️ Honorable Mention Award</span>
+      </p>
+      <p class="pub-links">
+        <a href="#" target="_blank">pdf</a>
+        <a href="#" target="_blank">paper</a>
+        <a href="#" target="_blank">poster</a>
+        <a href="#" target="_blank">video</a>
+      </p>
+      <p class="pub-tags">
+        <span>Security Robots</span>
+        <span>Social Power & Authority</span>
+        <span>Trust & Acceptance</span>
+        <span>HRI 2025</span>
+      </p>
+    </div>
   </div>
 
-  <div class="publication-item" data-keywords="security hri review gender">
-    <p class="pub-title">
-      Gender and Security Robot Interactions: A Brief Review and Critique
-    </p>
-    <p class="pub-authors">
-      <strong>Xin Ye</strong>, Samia Cornelius Bhatti, Lionel Peter Robert
-    </p>
-    <p class="pub-venue">
-      Americas Conference on Information Systems, 2024
-      <span class="award">🎖️ Best Paper Nominee</span>
-    </p>
-    <p class="pub-links">
-      <a href="#" target="_blank">pdf</a>
-      <a href="#" target="_blank">paper</a>
-    </p>
-    <p class="pub-tags">
-      <span>Security Robots</span>
-      <span>Gender</span>
-      <span>Review</span>
-      <span>AMCIS 2024</span>
-    </p>
+  <div class="publication-card" data-keywords="security review">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="THRI literature review thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        A Human–Security Robot Interaction Literature Review
+      </p>
+      <p class="pub-authors">
+        <strong>Xin Ye</strong>, Lionel P. Robert
+      </p>
+      <p class="pub-venue">
+        ACM Transactions on Human-Robot Interaction
+      </p>
+      <p class="pub-links">
+        <a href="#" target="_blank">pdf</a>
+        <a href="#" target="_blank">paper</a>
+      </p>
+      <p class="pub-tags">
+        <span>Security Robots</span>
+        <span>Literature Review</span>
+        <span>THRI</span>
+      </p>
+    </div>
   </div>
 
-  <div class="publication-item" data-keywords="security hri trust">
-    <p class="pub-title">
-      Autonomy Acceptance Model (AAM): The Role of Autonomy and Risk in Security Robot Acceptance
-    </p>
-    <p class="pub-authors">
-      <strong>Xin Ye</strong>, Wonse Jo, Arsha Ali, Samia C. Bhatti, Connor Esterwood, Hana A. Kassie, Lionel P. Robert
-    </p>
-    <p class="pub-venue">
-      ACM/IEEE International Conference on Human-Robot Interaction, 2024
-    </p>
-    <p class="pub-links">
-      <a href="#" target="_blank">pdf</a>
-      <a href="#" target="_blank">paper</a>
-    </p>
-    <p class="pub-tags">
-      <span>Security Robots</span>
-      <span>Human–Robot Interaction</span>
-      <span>Trust & Acceptance</span>
-      <span>HRI 2024</span>
-    </p>
+  <div class="publication-card" data-keywords="security review gender">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="AMCIS 2024 gender and security robot thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        Gender and Security Robot Interactions: A Brief Review and Critique
+      </p>
+      <p class="pub-authors">
+        <strong>Xin Ye</strong>, Samia Cornelius Bhatti, Lionel P. Robert
+      </p>
+      <p class="pub-venue">
+        Americas Conference on Information Systems, 2024
+        <span class="award">🎖️ Best Paper Nominee</span>
+      </p>
+      <p class="pub-links">
+        <a href="#" target="_blank">pdf</a>
+        <a href="#" target="_blank">paper</a>
+      </p>
+      <p class="pub-tags">
+        <span>Security Robots</span>
+        <span>Literature Review</span>
+        <span>Gender</span>
+        <span>AMCIS 2024</span>
+      </p>
+    </div>
   </div>
 
-  <div class="publication-item" data-keywords="security hri anthropomorphism">
-    <p class="pub-title">
-      Human Security Robot Interaction and Anthropomorphism: An Examination of Pepper, RAMSEE, and Knightscope Robots
-    </p>
-    <p class="pub-authors">
-      <strong>Xin Ye</strong>, Lionel P. Robert Jr.
-    </p>
-    <p class="pub-venue">
-      IEEE International Conference on Robot and Human Interactive Communication, 2023
-    </p>
-    <p class="pub-links">
-      <a href="#" target="_blank">pdf</a>
-      <a href="#" target="_blank">paper</a>
-    </p>
-    <p class="pub-tags">
-      <span>Security Robots</span>
-      <span>Human–Robot Interaction</span>
-      <span>Anthropomorphism</span>
-      <span>RO-MAN 2023</span>
-    </p>
+  <div class="publication-card" data-keywords="security trust-acceptance">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="HRI 2024 AAM thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        Autonomy Acceptance Model (AAM): The Role of Autonomy and Risk in Security Robot Acceptance
+      </p>
+      <p class="pub-authors">
+        <strong>Xin Ye</strong>, Wonse Jo, Arsha Ali, Samia C. Bhatti, Connor Esterwood, Hana A. Kassie, Lionel P. Robert
+      </p>
+      <p class="pub-venue">
+        ACM/IEEE International Conference on Human-Robot Interaction, 2024
+      </p>
+      <p class="pub-links">
+        <a href="#" target="_blank">pdf</a>
+        <a href="#" target="_blank">paper</a>
+      </p>
+      <p class="pub-tags">
+        <span>Security Robots</span>
+        <span>Trust & Acceptance</span>
+        <span>HRI 2024</span>
+      </p>
+    </div>
+  </div>
+
+  <div class="publication-card" data-keywords="security anthropomorphism">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="RO-MAN 2023 anthropomorphism thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        Human Security Robot Interaction and Anthropomorphism: An Examination of Pepper, RAMSEE, and Knightscope Robots
+      </p>
+      <p class="pub-authors">
+        <strong>Xin Ye</strong>, Lionel P. Robert Jr.
+      </p>
+      <p class="pub-venue">
+        IEEE International Conference on Robot and Human Interactive Communication, 2023
+      </p>
+      <p class="pub-links">
+        <a href="#" target="_blank">pdf</a>
+        <a href="#" target="_blank">paper</a>
+      </p>
+      <p class="pub-tags">
+        <span>Security Robots</span>
+        <span>Anthropomorphism</span>
+        <span>RO-MAN 2023</span>
+      </p>
+    </div>
+  </div>
+
+  <div class="publication-card" data-keywords="">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="AI companion relationships thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        The Imitation of Intimacy: Comparing Satisfaction in Intimate Human and AI Companion Relationships
+      </p>
+      <p class="pub-authors">
+        A. Masterson, <strong>Xin Ye</strong>, Y. Li, Lionel Robert
+      </p>
+      <p class="pub-venue">
+        ACM/IEEE International Conference on Human-Robot Interaction, 2026
+      </p>
+      <p class="pub-tags">
+        <span>AI Companions</span>
+        <span>Human–AI Relationships</span>
+        <span>HRI 2026</span>
+      </p>
+    </div>
+  </div>
+
+  <div class="publication-card" data-keywords="review">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="Real vs not so real robots meta-analysis thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        Virtually the Same or Realistically Different?: A Meta-analysis of Real vs. “Not So Real” Robots
+      </p>
+      <p class="pub-authors">
+        Connor Esterwood, Rui Han Guan, <strong>Xin Ye</strong>, Lionel Robert
+      </p>
+      <p class="pub-venue">
+        Proceedings of the 20th ACM/IEEE International Conference on Human-Robot Interaction, 2025
+      </p>
+      <p class="pub-tags">
+        <span>Literature Review</span>
+        <span>Meta-analysis</span>
+        <span>HRI 2025</span>
+      </p>
+    </div>
   </div>
 
 </div>
@@ -235,10 +340,29 @@ My work has been published in premier conferences and journals, such as ACM Tran
   border-color: #2f80ed;
 }
 
-.publication-item {
-  margin-bottom: 1.45rem;
-  padding-bottom: 1.1rem;
+.publication-card {
+  display: flex;
+  gap: 18px;
+  margin-bottom: 1.7rem;
+  padding-bottom: 1.3rem;
   border-bottom: 1px solid #eeeeee;
+  align-items: flex-start;
+}
+
+.publication-image {
+  flex: 0 0 180px;
+}
+
+.publication-image img {
+  width: 180px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid #e5e5e5;
+}
+
+.publication-content {
+  flex: 1;
 }
 
 .pub-title {
@@ -303,11 +427,51 @@ My work has been published in premier conferences and journals, such as ACM Tran
   font-style: normal;
   font-weight: 600;
 }
+
+.publication-image.video-thumb {
+  position: relative;
+}
+
+.publication-image.video-thumb a {
+  display: block;
+  position: relative;
+}
+
+.play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.58);
+  color: white;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 42px;
+  font-size: 18px;
+  padding-left: 2px;
+}
+
+@media screen and (max-width: 600px) {
+  .publication-card {
+    flex-direction: column;
+  }
+
+  .publication-image {
+    flex: none;
+  }
+
+  .publication-image img {
+    width: 100%;
+    height: auto;
+  }
+}
 </style>
 
 <script>
 function filterPubs(keyword, event) {
-  var pubs = document.getElementsByClassName("publication-item");
+  var pubs = document.getElementsByClassName("publication-card");
   var buttons = document.getElementsByClassName("filter-btn");
 
   for (var i = 0; i < buttons.length; i++) {
@@ -320,7 +484,7 @@ function filterPubs(keyword, event) {
     var keywords = pubs[j].getAttribute("data-keywords");
 
     if (keyword === "all" || keywords.includes(keyword)) {
-      pubs[j].style.display = "block";
+      pubs[j].style.display = "flex";
     } else {
       pubs[j].style.display = "none";
     }
