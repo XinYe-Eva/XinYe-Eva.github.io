@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello and welcome! I’m **Xin**, a third-year PhD student at the 
-<a href="https://www.si.umich.edu/" target="_blank" style="color:#2f80ed; font-weight:600;">University of Michigan School of Information</a> 
+<a href="https://umich.edu" target="_blank" style="color:#2f80ed; font-weight:600;">University of Michigan, Ann Arbor</a> 
 advised by 
 <a href="https://www.si.umich.edu/people/lionel-robert" target="_blank" style="color:#2f80ed; font-weight:600;"> Prof. Lionel Robert</a>.
 
