@@ -67,6 +67,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Social Power & Authority</span>
+        <span>Cooperation</span>
         <span>HRI 2026 Full Paper</span>
       </p>
     </div>
