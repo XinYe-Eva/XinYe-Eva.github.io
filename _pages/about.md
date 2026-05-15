@@ -37,7 +37,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
 - *Oct 13, 2025*: Attended the 69th Human Factors and Ergonomics Society Annual Meeting (HFES 2025) in Chicago, IL and presented my paper “Rewarding Trust: How Reward Power Shapes Security Robot Acceptance”.
 - *Aug 29, 2025*: Attended the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025) in Eindhoven, Netherlands and presented my paper “Can Robots Take Over Security? A Brief Review and Critique of Security Robot vs. Human Security Agent”. 🤖👮
 
-# 📝 Publications
+# 📝 Selected Publications
 <div class="pub-filter">
   <button class="filter-btn active" onclick="filterPubs('all', event)">All</button>
   <button class="filter-btn" onclick="filterPubs('security', event)">Security Robots</button>
