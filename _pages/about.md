@@ -144,7 +144,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">LBR</span>
+        <span class="pub-type">CONFERENCE</span>
         ACM/IEEE International Conference on Human-Robot Interaction, 2025
         <span class="award">🎖️ Honorable Mention Award</span>
       </p>
@@ -285,7 +285,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
         A. Masterson, <strong>Xin Ye</strong>, Y. Li, Lionel Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">LBR</span>
+        <span class="pub-type">CONFERENCE</span>
         ACM/IEEE International Conference on Human-Robot Interaction, 2026
       </p>
       <p class="pub-tags">
