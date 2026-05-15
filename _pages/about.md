@@ -45,11 +45,33 @@ My work has been published in premier conferences and journals, such as ACM Tran
   <button class="filter-btn" onclick="filterPubs('trust-acceptance', event)">Trust & Acceptance</button>
   <button class="filter-btn" onclick="filterPubs('ethics', event)">Ethics & Society</button>
   <button class="filter-btn" onclick="filterPubs('review', event)">Literature Review</button>
-  <button class="filter-btn" onclick="filterPubs('anthropomorphism', event)">Anthropomorphism</button>
+  <button class="filter-btn" onclick="filterPubs('anthropomorphism', event)">Embodiment</button>
 </div>
 
 <div class="publication-list">
 
+  <div class="publication-card" data-keywords="review">
+    <div class="publication-image">
+      <img src="/images/500x300.png" alt="Real vs not so real robots meta-analysis thumbnail">
+    </div>
+    <div class="publication-content">
+      <p class="pub-title">
+        Embodied or Virtually Represented: Navigating the Embodiment Debate in Human-Robot Interaction
+      </p>
+      <p class="pub-authors">
+        Connor Esterwood, <strong>Xin Ye</strong>, Ruijia Guan, Lionel Robert
+      </p>
+      <p class="pub-venue">
+        Science Robotics
+      </p>
+      <p class="pub-tags">
+        <span>Literature Review</span>
+        <span>Embodiment</span>
+        <span>Journal</span>
+      </p>
+    </div>
+  </div>
+  
   <div class="publication-card" data-keywords="security power-authority">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="HRI 2026 paper thumbnail">
@@ -62,8 +84,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
-        ACM/IEEE International Conference on Human-Robot Interaction, 2026
+        Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction, 2026
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -86,7 +107,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
         Human Factors and Ergonomics Society Annual Meeting, 2025
       </p>
       <p class="pub-tags">
@@ -113,7 +133,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
         IEEE International Conference on Robot and Human Interactive Communication, 2025
       </p>
       <p class="pub-links">
@@ -124,6 +143,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <span>Security Robots</span>
         <span>Literature Review</span>
         <span>Ethics & Society</span>
+        <span>Embodiment</span>
         <span>RO-MAN 2025 Full Paper</span>
       </p>
     </div>
@@ -144,7 +164,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
         ACM/IEEE International Conference on Human-Robot Interaction, 2025
         <span class="award">🎖️ Honorable Mention Award</span>
       </p>
@@ -175,7 +194,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">JOURNAL</span>
         ACM Transactions on Human-Robot Interaction
       </p>
       <p class="pub-links">
@@ -185,7 +203,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Literature Review</span>
-        <span>SCI-Q1</span>
+        <span>Journal</span>
       </p>
     </div>
   </div>
@@ -202,7 +220,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Samia Cornelius Bhatti, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
         Americas Conference on Information Systems, 2024
         <span class="award">🎖️ Best Paper Nominee</span>
       </p>
@@ -231,7 +248,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Wonse Jo, Arsha Ali, Samia C. Bhatti, Connor Esterwood, Hana A. Kassie, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
         ACM/IEEE International Conference on Human-Robot Interaction, 2024
       </p>
       <p class="pub-links">
@@ -258,7 +274,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Lionel P. Robert Jr.
       </p>
       <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
         IEEE International Conference on Robot and Human Interactive Communication, 2023
       </p>
       <p class="pub-links">
@@ -267,6 +282,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
+        <span>Embodiment</span>
         <span>Anthropomorphism</span>
         <span>RO-MAN 2023 Full Paper</span>
       </p>
@@ -285,7 +301,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
         A. Masterson, <strong>Xin Ye</strong>, Y. Li, Lionel Robert
       </p>
       <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
         ACM/IEEE International Conference on Human-Robot Interaction, 2026
       </p>
       <p class="pub-tags">
@@ -296,28 +311,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="review">
-    <div class="publication-image">
-      <img src="/images/500x300.png" alt="Real vs not so real robots meta-analysis thumbnail">
-    </div>
-    <div class="publication-content">
-      <p class="pub-title">
-        Virtually the Same or Realistically Different?: A Meta-analysis of Real vs. “Not So Real” Robots
-      </p>
-      <p class="pub-authors">
-        Connor Esterwood, Rui Han Guan, <strong>Xin Ye</strong>, Lionel Robert
-      </p>
-      <p class="pub-venue">
-        <span class="pub-type">CONFERENCE</span>
-        Proceedings of the 20th ACM/IEEE International Conference on Human-Robot Interaction, 2025
-      </p>
-      <p class="pub-tags">
-        <span>Literature Review</span>
-        <span>Meta-analysis</span>
-        <span>HRI 2025 Full Paper</span>
-      </p>
-    </div>
-  </div>
 
 </div>
 
@@ -391,23 +384,6 @@ My work has been published in premier conferences and journals, such as ACM Tran
   color: #666;
   font-style: italic;
 }
-
-.pub-type {
-  display: inline-block;
-  margin-right: 8px;
-  padding: 1px 6px;
-  border: 1px solid #e5e7eb;
-  border-radius: 4px;
-  color: #777;
-  background: #fafafa;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 0.56rem;
-  letter-spacing: 0.04em;
-  vertical-align: middle;
-  text-transform: uppercase;
-}
-
 
 .pub-links {
   margin-bottom: 0.4rem;
