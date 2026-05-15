@@ -63,7 +63,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       </p>
       <p class="pub-venue">
         <span class="pub-type">CONFERENCE</span>
-        Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction, 2026
+        ACM/IEEE International Conference on Human-Robot Interaction, 2026
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -395,14 +395,14 @@ My work has been published in premier conferences and journals, such as ACM Tran
 .pub-type {
   display: inline-block;
   margin-right: 8px;
-  padding: 2px 7px;
-  border: 1px solid #2f80ed;
-  border-radius: 5px;
-  color: #2f80ed;
-  background: #ffffff;
+  padding: 1px 6px;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  color: #777;
+  background: #fafafa;
   font-style: normal;
-  font-weight: 700;
-  font-size: 0.68rem;
+  font-weight: 500;
+  font-size: 0.56rem;
   letter-spacing: 0.04em;
   vertical-align: middle;
   text-transform: uppercase;
