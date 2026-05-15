@@ -50,7 +50,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
 
 <div class="publication-list">
 
-  <div class="publication-card" data-keywords="review">
+  <div class="publication-card" data-keywords="review Embodiment">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="Real vs not so real robots meta-analysis thumbnail">
     </div>
@@ -118,7 +118,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="security review ethics">
+  <div class="publication-card" data-keywords="security review ethics Embodiment">
     <div class="publication-image video-thumb">
       <a href="#" target="_blank">
         <img src="/images/500x300.png" alt="RO-MAN 2025 paper thumbnail">
@@ -262,7 +262,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-  <div class="publication-card" data-keywords="security anthropomorphism trust-acceptance">
+  <div class="publication-card" data-keywords="security Embodiment trust-acceptance">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="RO-MAN 2023 anthropomorphism thumbnail">
     </div>
