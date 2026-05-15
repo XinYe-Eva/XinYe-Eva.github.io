@@ -84,7 +84,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <strong>Xin Ye</strong>, Lionel P. Robert
       </p>
       <p class="pub-venue">
-        Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction, 2026
+        ACM/IEEE International Conference on Human-Robot Interaction, 2026
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
