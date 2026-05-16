@@ -50,7 +50,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
 
 <div class="publication-list">
 
-  <div class="publication-card" data-keywords="Embodiment">
+  <div class="publication-card" data-keywords="review Embodiment">
     <div class="publication-image">
       <img src="/images/500x300.png" alt="Real vs not so real robots meta-analysis thumbnail">
     </div>
