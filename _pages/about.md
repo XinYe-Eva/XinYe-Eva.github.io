@@ -434,6 +434,14 @@ My work has been published in premier conferences and journals, such as ACM Tran
   font-weight: 600;
 }
 
+.grant-amount {
+  white-space: nowrap;
+}
+
+.money-sign::before {
+  content: "$";
+}
+
 .publication-image.video-thumb {
   position: relative;
 }
@@ -505,10 +513,10 @@ function filterPubs(keyword, event) {
 - *08/2024*: [Top 25% Paper, Winner](https://aisel.aisnet.org/amcis2024/awards.html), Americas Conference on Information Systems.
 - *08/2024*: [Best Paper Award, Nominated](https://aisel.aisnet.org/amcis2024/awards.html), Americas Conference on Information Systems.
 - *06/2024*: Ph.D. Pre-candidacy Paper Passed with Distinction, University of Michigan.
-- *2023, 2024, 2025*: School of Information Travel Grant, USD 1,500.
-- *2023, 2024, 2025*: Rackham Conference Travel Grant, USD 900 and USD 1,100.
-- *02/2024*: Rackham Pre-candidate Research Grant, USD 1,500, University of Michigan.
-- *09/2022*: School of Information Master Student Research Grant, USD 1,500.
+- *2023, 2024, 2025*: School of Information Travel Grant, <span class="grant-amount"><span class="money-sign"></span>1,500</span>.
+- *2023, 2024, 2025*: Rackham Conference Travel Grant, <span class="grant-amount"><span class="money-sign"></span>900 and <span class="money-sign"></span>1,100</span>.
+- *02/2024*: Rackham Pre-candidate Research Grant, <span class="grant-amount"><span class="money-sign"></span>1,500</span>, University of Michigan.
+- *09/2022*: School of Information Master Student Research Grant, <span class="grant-amount"><span class="money-sign"></span>1,500</span>.
 
 
 # 📖 Education
