@@ -67,7 +67,9 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Literature Review</span>
         <span>Embodiment</span>
-        <span>Journal</span>
+        <span>Journal (JCR-Q1)</span
+       <span>Impact Factor: 27.5</span>
+        
       </p>
     </div>
   </div>
@@ -203,7 +205,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Literature Review</span>
-        <span>Journal</span>
+        <span>Journal (JCR-Q1)</span
+       <span>Impact Factor: 5.5</span>
       </p>
     </div>
   </div>
