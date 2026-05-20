@@ -51,8 +51,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
 <div class="publication-list">
 
   <div class="publication-card" data-keywords="review Embodiment">
-    <div class="publication-image">
-      <img src="/images/500x300.png" alt="Real vs not so real robots meta-analysis thumbnail">
+    <div class="publication-image publication-image--placeholder" data-update-note="Add the Science Robotics image here when ready.">
+      <span>Image coming soon</span>
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -69,14 +69,13 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <span>Embodiment</span>
         <span>Journal (JCR-Q1)</span>
         <span>Impact Factor: 27.5</span>
-        
       </p>
     </div>
   </div>
   
   <div class="publication-card" data-keywords="security power-authority">
-    <div class="publication-image">
-      <img src="/images/500x300.png" alt="HRI 2026 paper thumbnail">
+    <div class="publication-image publication-image--contain">
+      <img src="/images/publications/hri-2026-legitimacy.png" alt="HRI 2026 legitimacy and cooperation paper thumbnail">
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -87,6 +86,10 @@ My work has been published in premier conferences and journals, such as ACM Tran
       </p>
       <p class="pub-venue">
         ACM/IEEE International Conference on Human-Robot Interaction, 2026
+      </p>
+      <p class="pub-links">
+        <a href="/paper/YeandRobert_HRI2026.pdf" target="_blank">pdf</a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3757279.3788657" target="_blank">paper</a>
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -99,7 +102,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
 
   <div class="publication-card" data-keywords="security power-authority trust-acceptance">
     <div class="publication-image">
-      <img src="/images/500x300.png" alt="HFES 2025 paper thumbnail">
+      <img src="/images/publications/hfes-2025-rewarding-trust.jpg" alt="HFES 2025 rewarding trust paper thumbnail">
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -111,6 +114,10 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-venue">
         Human Factors and Ergonomics Society Annual Meeting, 2025
       </p>
+      <p class="pub-links">
+        <a href="/paper/YeandRobert_HFES2025.pdf" target="_blank">pdf</a>
+        <a href="https://journals.sagepub.com/eprint/X3ZN9SE7DEFE2GWHHQYT/full" target="_blank">paper</a>
+      </p>
       <p class="pub-tags">
         <span>Security Robots</span>
         <span>Social Power & Authority</span>
@@ -121,11 +128,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
   </div>
 
   <div class="publication-card" data-keywords="security review ethics Embodiment">
-    <div class="publication-image video-thumb">
-      <a href="#" target="_blank">
-        <img src="/images/500x300.png" alt="RO-MAN 2025 paper thumbnail">
-        <span class="play-button">▶</span>
-      </a>
+    <div class="publication-image">
+      <img src="/images/publications/roman-2025-security-review.webp" alt="RO-MAN 2025 paper thumbnail">
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -138,8 +142,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
         IEEE International Conference on Robot and Human Interactive Communication, 2025
       </p>
       <p class="pub-links">
-        <a href="#" target="_blank">pdf</a>
-        <a href="#" target="_blank">video</a>
+        <a href="/paper/YeandRobert_ROMAN25.pdf" target="_blank">pdf</a>
+        <a href="https://ieeexplore.ieee.org/document/11217535" target="_blank">paper</a>
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -153,8 +157,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
 
   <div class="publication-card" data-keywords="security power-authority trust-acceptance">
     <div class="publication-image video-thumb">
-      <a href="#" target="_blank">
-        <img src="/images/500x300.png" alt="HRI 2025 paper thumbnail">
+      <a href="https://www.youtube.com/watch?v=WzFGUtOma78" target="_blank" aria-label="Play HRI 2025 presentation video">
+        <img src="/images/publications/hri-2025-power.jpg" alt="HRI 2025 paper video thumbnail">
         <span class="play-button">▶</span>
       </a>
     </div>
@@ -170,10 +174,10 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <span class="award">🎖️ Honorable Mention Award</span>
       </p>
       <p class="pub-links">
-        <a href="#" target="_blank">pdf</a>
-        <a href="#" target="_blank">paper</a>
-        <a href="#" target="_blank">poster</a>
-        <a href="#" target="_blank">video</a>
+        <a href="/paper/YeandRobert_HRI2025.pdf" target="_blank">pdf</a>
+        <a href="https://dl.acm.org/doi/10.5555/3721488.3721754" target="_blank">paper</a>
+        <a href="/paper/HRILBR2025poster.pdf" target="_blank">poster</a>
+        <a href="https://www.youtube.com/watch?v=WzFGUtOma78" target="_blank">video</a>
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -185,8 +189,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
   </div>
 
   <div class="publication-card" data-keywords="security review">
-    <div class="publication-image">
-      <img src="/images/500x300.png" alt="THRI literature review thumbnail">
+    <div class="publication-image publication-image--contain">
+      <img src="/images/publications/thri-literature-review.webp" alt="THRI literature review thumbnail">
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -199,8 +203,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
         ACM Transactions on Human-Robot Interaction
       </p>
       <p class="pub-links">
-        <a href="#" target="_blank">pdf</a>
-        <a href="#" target="_blank">paper</a>
+        <a href="/paper/YeandRobert_THRI2024.pdf" target="_blank">pdf</a>
+        <a href="https://dl.acm.org/doi/full/10.1145/3700888" target="_blank">paper</a>
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -212,8 +216,11 @@ My work has been published in premier conferences and journals, such as ACM Tran
   </div>
 
   <div class="publication-card" data-keywords="security review ethics">
-    <div class="publication-image">
-      <img src="/images/500x300.png" alt="AMCIS 2024 gender and security robot thumbnail">
+    <div class="publication-image video-thumb">
+      <a href="https://www.youtube.com/watch?v=UimgZzX-tCA" target="_blank" aria-label="Play AMCIS 2024 presentation video">
+        <img src="/images/publications/amcis-2024-gender.jpg" alt="AMCIS 2024 gender and security robot video thumbnail">
+        <span class="play-button">▶</span>
+      </a>
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -227,8 +234,9 @@ My work has been published in premier conferences and journals, such as ACM Tran
         <span class="award">🎖️ Best Paper Nominee</span>
       </p>
       <p class="pub-links">
-        <a href="#" target="_blank">pdf</a>
-        <a href="#" target="_blank">paper</a>
+        <a href="/paper/YeandRobert_AMCIS2024.pdf" target="_blank">pdf</a>
+        <a href="https://aisel.aisnet.org/amcis2024/soc_inclusion/social_inclusion/7/" target="_blank">paper</a>
+        <a href="https://www.youtube.com/watch?v=UimgZzX-tCA" target="_blank">video</a>
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -240,8 +248,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
   </div>
 
   <div class="publication-card" data-keywords="security trust-acceptance">
-    <div class="publication-image">
-      <img src="/images/500x300.png" alt="HRI 2024 AAM thumbnail">
+    <div class="publication-image publication-image--contain">
+      <img src="/images/publications/hri-2024-aam.webp" alt="HRI 2024 AAM thumbnail">
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -254,8 +262,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
         ACM/IEEE International Conference on Human-Robot Interaction, 2024
       </p>
       <p class="pub-links">
-        <a href="#" target="_blank">pdf</a>
-        <a href="#" target="_blank">paper</a>
+        <a href="/paper/YeandRobert_HRI2024.pdf" target="_blank">pdf</a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3610977.3635005" target="_blank">paper</a>
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -266,8 +274,11 @@ My work has been published in premier conferences and journals, such as ACM Tran
   </div>
 
   <div class="publication-card" data-keywords="security Embodiment trust-acceptance">
-    <div class="publication-image">
-      <img src="/images/500x300.png" alt="RO-MAN 2023 anthropomorphism thumbnail">
+    <div class="publication-image video-thumb">
+      <a href="https://www.youtube.com/watch?v=o-bF-nZcpK0" target="_blank" aria-label="Play RO-MAN 2023 presentation video">
+        <img src="/images/publications/roman-2023-anthropomorphism.jpg" alt="RO-MAN 2023 anthropomorphism video thumbnail">
+        <span class="play-button">▶</span>
+      </a>
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -280,8 +291,9 @@ My work has been published in premier conferences and journals, such as ACM Tran
         IEEE International Conference on Robot and Human Interactive Communication, 2023
       </p>
       <p class="pub-links">
-        <a href="#" target="_blank">pdf</a>
-        <a href="#" target="_blank">paper</a>
+        <a href="/paper/YeandRobert_ROMAN2023.pdf" target="_blank">pdf</a>
+        <a href="https://ieeexplore.ieee.org/document/10309400" target="_blank">paper</a>
+        <a href="https://www.youtube.com/watch?v=o-bF-nZcpK0" target="_blank">video</a>
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
@@ -294,7 +306,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
 
   <div class="publication-card" data-keywords="ethics">
     <div class="publication-image">
-      <img src="/images/500x300.png" alt="AI companion relationships thumbnail">
+      <img src="/images/publications/hri-2026-intimacy.png" alt="HRI 2026 AI companion intimacy paper thumbnail">
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -306,6 +318,11 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-venue">
         ACM/IEEE International Conference on Human-Robot Interaction, 2026
       </p>
+      <p class="pub-links">
+        <a href="/paper/Annette_HRI2026.pdf" target="_blank">pdf</a>
+        <a href="https://dl.acm.org/doi/10.1145/3776734.3794515" target="_blank">paper</a>
+        <a href="/paper/HRILBR2026poster.pdf" target="_blank">poster</a>
+      </p>
       <p class="pub-tags">
         <span>AI Companions</span>
         <span>Ethics & Society</span>
@@ -314,8 +331,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
     </div>
   </div>
 
-
 </div>
+
 
 <style>
 .pub-filter {
@@ -348,23 +365,47 @@ My work has been published in premier conferences and journals, such as ACM Tran
 
 .publication-card {
   display: flex;
-  gap: 18px;
-  margin-bottom: 1.7rem;
-  padding-bottom: 1.3rem;
+  gap: 24px;
+  margin-bottom: 2rem;
+  padding-bottom: 1.7rem;
   border-bottom: 1px solid #eeeeee;
   align-items: flex-start;
 }
 
 .publication-image {
-  flex: 0 0 180px;
+  flex: 0 0 240px;
+  max-width: 100%;
+}
+
+.publication-image img,
+.publication-image--placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+  border: 1px solid #e5e5e5;
+  background: #ffffff;
+  box-sizing: border-box;
 }
 
 .publication-image img {
-  width: 180px;
-  height: 110px;
+  display: block;
+  height: auto;
   object-fit: cover;
-  border-radius: 10px;
-  border: 1px solid #e5e5e5;
+}
+
+.publication-image--contain img {
+  object-fit: contain;
+  padding: 6px;
+}
+
+.publication-image--placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7a7a7a;
+  font-size: 0.78rem;
+  text-align: center;
+  padding: 0 14px;
 }
 
 .publication-content {
@@ -392,7 +433,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
   margin-bottom: 0.4rem;
 }
 
-.pub-links a {
+.pub-links a,
+.pub-link-missing {
   display: inline-block;
   margin-right: 8px;
   color: #2f80ed;
@@ -400,13 +442,20 @@ My work has been published in premier conferences and journals, such as ACM Tran
   text-decoration: none;
 }
 
-.pub-links a::before {
+.pub-link-missing {
+  color: #9aa0a6;
+  cursor: default;
+}
+
+.pub-links a::before,
+.pub-link-missing::before {
   content: "[ ";
   color: #777;
   font-weight: 400;
 }
 
-.pub-links a::after {
+.pub-links a::after,
+.pub-link-missing::after {
   content: " ]";
   color: #777;
   font-weight: 400;
@@ -470,17 +519,15 @@ My work has been published in premier conferences and journals, such as ACM Tran
 @media screen and (max-width: 600px) {
   .publication-card {
     flex-direction: column;
+    gap: 12px;
   }
 
   .publication-image {
     flex: none;
-  }
-
-  .publication-image img {
     width: 100%;
-    height: auto;
   }
 }
+
 </style>
 
 <script>
