@@ -49,3 +49,22 @@ author_profile: true
 </a>
 
 </div>
+
+<details class="additional-projects">
+  <summary><span class="screen-reader-text">Additional projects</span></summary>
+  <div class="additional-project-list">
+    <h2 class="additional-projects-title">Additional Projects</h2>
+    <article class="additional-project-item">
+      <h2><a href="/poster/DEVIATEPoster.pdf" target="_blank">DEVIATE: The Unglamorous Foundations of Machine Learning</a></h2>
+      <p>Poster presented at University of Michigan, the College of Engineering Design Expo, Fall 2022.</p>
+    </article>
+    <article class="additional-project-item">
+      <h2><a href="/poster/Poster_review.pdf" target="_blank">Pedestrian-Vehicle Communication Displays in the Context of Autonomous Driving: A Scoping Review</a></h2>
+      <p>A poster project reviewing communication displays for pedestrian-vehicle interaction in autonomous driving.</p>
+    </article>
+    <article class="additional-project-item">
+      <h2><a href="https://www.youtube.com/watch?v=KsYYkgqYi5s" target="_blank">Guide Tour and Restaurant Advisor</a></h2>
+      <p>A Python and Flask application that helps users find restaurants and nearby places of interest by state and food type.</p>
+    </article>
+  </div>
+</details>
