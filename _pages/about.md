@@ -128,8 +128,11 @@ My work has been published in premier conferences and journals, such as ACM Tran
   </div>
 
   <div class="publication-card" data-keywords="security review ethics Embodiment">
-    <div class="publication-image">
-      <img src="/images/publications/roman-2025-security-review.webp" alt="RO-MAN 2025 paper thumbnail">
+    <div class="publication-image video-thumb">
+      <a href="https://www.youtube.com/watch?v=3HSez3aA41E" target="_blank" aria-label="Play RO-MAN 2025 presentation video">
+        <img src="/images/publications/roman-2025-security-review.webp" alt="RO-MAN 2025 paper video thumbnail">
+        <span class="play-button">▶</span>
+      </a>
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -144,6 +147,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       <p class="pub-links">
         <a href="/paper/YeandRobert_ROMAN25.pdf" target="_blank">pdf</a>
         <a href="https://ieeexplore.ieee.org/document/11217535" target="_blank">paper</a>
+        <a href="https://www.youtube.com/watch?v=3HSez3aA41E" target="_blank">video</a>
       </p>
       <p class="pub-tags">
         <span>Security Robots</span>
