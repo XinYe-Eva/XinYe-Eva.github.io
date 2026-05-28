@@ -51,8 +51,8 @@ My work has been published in premier conferences and journals, such as ACM Tran
 <div class="publication-list">
 
   <div class="publication-card" data-keywords="review Embodiment">
-    <div class="publication-image publication-image--placeholder" data-update-note="Add the Science Robotics image here when ready.">
-      <span>Image coming soon</span>
+    <div class="publication-image">
+      <img src="/images/publications/science-robotics-embodiment.png" alt="Science Robotics embodiment debate paper thumbnail">
     </div>
     <div class="publication-content">
       <p class="pub-title">
@@ -63,6 +63,9 @@ My work has been published in premier conferences and journals, such as ACM Tran
       </p>
       <p class="pub-venue">
         Science Robotics
+      </p>
+      <p class="pub-links">
+        <a href="https://www.science.org/doi/10.1126/scirobotics.aed4569" target="_blank">paper</a>
       </p>
       <p class="pub-tags">
         <span>Literature Review</span>
