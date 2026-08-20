@@ -12,6 +12,16 @@ author_profile: true
 <div class="news-list">
 
   <article class="news-item">
+    <p class="news-date">Aug. 20, 2026</p>
+    <h2>My paper <em>"Mitigating Human–Security Robot Conflict through Fairness"</em> has been accepted by the <a href="https://www.tandfonline.com/journals/hihc20" target="_blank">International Journal of Human-Computer Interaction</a>!</h2>
+  </article>
+
+  <article class="news-item">
+    <p class="news-date">Aug. 1, 2026</p>
+    <h2>My paper "<a href="https://journals.sagepub.com/doi/10.1177/10711813261475182" target="_blank"><em>Trusting Security Robotic Authority: The Impact of Interactional and Distributive Fairness</em></a>" was accepted and published online in the <em>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</em>. I will attend <a href="https://www.hfes.org/Events/Future-Events/aspire-2026-the-hfes-annual-meeting-and-exhibition" target="_blank">ASPIRE 2026, the HFES 70th International Annual Meeting</a>, in Reno, Nevada this October.</h2>
+  </article>
+
+  <article class="news-item">
     <p class="news-date">Dec. 22, 2025</p>
     <h2>My paper <em>"The Roles of Fairness and Effectiveness in Promoting Legitimacy and Cooperation with Security Robotic Authority"</em> has been accepted as a full paper at HRI 2026 (23% acceptance rate)! 🎉🎉</h2>
   </article>

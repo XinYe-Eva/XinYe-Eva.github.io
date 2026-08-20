@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello and welcome! I’m **Xin**, a third-year Ph.D. student at the 
+Hello and welcome! I’m **Xin**, a fourth-year Ph.D. student at the
 <a href="https://www.si.umich.edu" target="_blank" style="color:#2f80ed; font-weight:600;">University of Michigan School of Information</a> 
 advised by 
 <a href="https://www.si.umich.edu/people/lionel-robert" target="_blank" style="color:#2f80ed; font-weight:600;">Prof. Lionel Robert</a>.
@@ -29,13 +29,13 @@ exploring how people perceive, respond to, and interact with
 and how these systems can be designed and deployed in service of the 
 <span style="color:#00a878; font-weight:700;">public good</span>.
 
-My work has been published in premier conferences and journals, such as ACM Transactions on Human-Robot Interaction, the ACM/IEEE International Conference on Human-Robot Interaction (HRI), the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), and the Human Factors and Ergonomics Society Annual Meeting (HFES). Prior to my Ph.D., I earned an M.S. in Information Science from the University of Michigan and a B.S. in Psychology from Zhejiang University.
+My work has been published or accepted in premier conferences and journals, such as Science Robotics, International Journal of Human-Computer Interaction, ACM Transactions on Human-Robot Interaction, the ACM/IEEE International Conference on Human-Robot Interaction (HRI), the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), and the Human Factors and Ergonomics Society Annual Meeting (HFES). Prior to my Ph.D., I earned an M.S. in Information Science from the University of Michigan and a B.S. in Psychology from Zhejiang University.
 
 # 🔥 News
 
+- *Aug 20, 2026*: My paper “Mitigating Human–Security Robot Conflict through Fairness” has been accepted by the International Journal of Human-Computer Interaction!
+- *Aug 1, 2026*: My paper “Trusting Security Robotic Authority: The Impact of Interactional and Distributive Fairness” was accepted and published online in the Proceedings of the Human Factors and Ergonomics Society Annual Meeting. I will attend ASPIRE 2026, the HFES 70th International Annual Meeting, in Reno, Nevada this October.
 - *Dec 22, 2025*: My paper “The Roles of Fairness and Effectiveness in Promoting Legitimacy and Cooperation with Security Robotic Authority” has been accepted as a full paper at HRI 2026 (23% acceptance rate)!&nbsp;🎉🎉 
-- *Oct 13, 2025*: Attended the 69th Human Factors and Ergonomics Society Annual Meeting (HFES 2025) in Chicago, IL and presented my paper “Rewarding Trust: How Reward Power Shapes Security Robot Acceptance”.
-- *Aug 29, 2025*: Attended the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025) in Eindhoven, Netherlands and presented my paper “Can Robots Take Over Security? A Brief Review and Critique of Security Robot vs. Human Security Agent”. 🤖👮
 
 # 📝 Selected Publications
 <div class="pub-filter">
@@ -75,7 +75,7 @@ My work has been published in premier conferences and journals, such as ACM Tran
       </p>
     </div>
   </div>
-  
+
   <div class="publication-card" data-keywords="security power-authority">
     <div class="publication-image publication-image--contain">
       <img src="/images/publications/hri-2026-legitimacy.png" alt="HRI 2026 legitimacy and cooperation paper thumbnail">
