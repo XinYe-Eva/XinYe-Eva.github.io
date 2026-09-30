@@ -33,9 +33,9 @@ My work has been published or accepted in premier conferences and journals, such
 
 # 🔥 News
 
-- *Aug 20, 2026*: My paper “Mitigating Human–Security Robot Conflict through Fairness” has been accepted by the International Journal of Human-Computer Interaction!
-- *Aug 1, 2026*: My paper “Trusting Security Robotic Authority: The Impact of Interactional and Distributive Fairness” was accepted and published online in the Proceedings of the Human Factors and Ergonomics Society Annual Meeting. I will attend ASPIRE 2026, the HFES 70th International Annual Meeting, in Reno, Nevada this October.
-- *Dec 22, 2025*: My paper “The Roles of Fairness and Effectiveness in Promoting Legitimacy and Cooperation with Security Robotic Authority” has been accepted as a full paper at HRI 2026 (23% acceptance rate)!&nbsp;🎉🎉 
+- *Sep 18, 2026*: Happy to share that my first magazine article, “[When Robots Patrol: Rethinking Authority in the Age of Automation](https://dl.acm.org/doi/abs/10.1145/3812672),” was published in ACM XRDS!
+- *Sep 16, 2026*: My paper “[Trusting Security Robotic Authority: The Impact of Interactional and Distributive Fairness](https://journals.sagepub.com/doi/10.1177/10711813261475182)” won the HFES HART Best Student Paper Runner-Up Award! I will attend ASPIRE 2026, the HFES 70th International Annual Meeting, in Reno, Nevada this October. 🥳
+- *Aug 20, 2026*: My paper “[Mitigating Human–Security Robot Conflict through Fairness](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2723654)” has been accepted by the International Journal of Human-Computer Interaction!
 
 # 📝 Selected Publications
 <div class="pub-filter">
@@ -563,6 +563,8 @@ function filterPubs(keyword, event) {
 
 # 🎖 Honors and Awards
 
+- *09/2026*: The HFES HART Best Student Paper Runner-Up Award.
+- *08/2026*: Chinese Government Award for Outstanding Self-Financed Students Abroad, <span class="grant-amount"><span class="money-sign"></span>6,000</span>.
 - *03/2025*: [Best Late Breaking Report Award, Honorable Mention](https://humanrobotinteraction.org/2025/awards/), ACM/IEEE International Conference on Human-Robot Interaction.
 - *08/2024*: [Top 25% Paper, Winner](https://aisel.aisnet.org/amcis2024/awards.html), Americas Conference on Information Systems.
 - *08/2024*: [Best Paper Award, Nominated](https://aisel.aisnet.org/amcis2024/awards.html), Americas Conference on Information Systems.
